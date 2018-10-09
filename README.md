@@ -1,2 +1,6 @@
 # liri-node-app
-LIRI Homework
+LIRI node application using Spotify and IMDB
+
+
+LIRI
+School Project
