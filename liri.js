@@ -18,7 +18,7 @@ inquirer.prompt([{
 .then(answers => {
     switch(answers.actionItem){
         case "concert-this":
-            console.log("goin to a concert!");
+            console.log("Let's go to a concert!");
             bandsInTown();
             break;
         case "spotify-this-song":
